@@ -1,2 +1,2 @@
 # datasciencecoursera
-Assignmet in Coursera
+Assignment in Coursera week3
